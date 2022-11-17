@@ -1,1 +1,1 @@
-# Hamoye_Summer_Internship-22
+# This repository houses my assignments during my internship at Hamoye.
